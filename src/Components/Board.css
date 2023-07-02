@@ -1,4 +1,6 @@
 .board {
   width: 920px;
   height: 920px;
+  display: flex ;
+
 }

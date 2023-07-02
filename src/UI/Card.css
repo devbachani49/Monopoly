@@ -1,14 +1,17 @@
 .card {
-  border-radius: 10px;
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  /* border-radius: 10px; */
+  /* box-shadow: 0 1px 8px rgba(255, 255, 255, 0.859); */
 
 }
 
-.top{
-    width: 80px;
-    height: 100px;
+.top {
+    width: 100px;
+    height: 125px;
     background:rgb(220,241,223);
-}
-.property{
-    
+    border: black solid 2px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 3px;
 }

@@ -7,7 +7,8 @@ import DarkBlue from './DarkBlue';
 const Board = () =>{
   return(
     <div className="board">
-        <DarkBlue>aaaaaaaaaaaaaaaaaaaaaaaa</DarkBlue>
+        <DarkBlue Price="4M" CardName="Mayfair"></DarkBlue>
+        <DarkBlue Price="3.5M" CardName="Park Lane"></DarkBlue>
     </div>
 
   ) 

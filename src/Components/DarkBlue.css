@@ -1,9 +1,13 @@
 .DarkBlue{
-    height:20px;
-    width: 80px;
-    border-top-right-radius:10px ;
-    border-top-left-radius:10px ;
+    height:25px;
+    /* border-top-right-radius:10px ; */
+    /* border-top-left-radius:10px ; */
     background-color: #0270bf;
     margin-top: 0px;
-
+}
+.CardName{
+    padding-top: 2px;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
 }
